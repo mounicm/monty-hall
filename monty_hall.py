@@ -1,3 +1,4 @@
+# author : mounicraju@gmail.com
 print """
 This is the Monty Hall problem(method #2).
 There are 3 doors in front of you, and there is a prize behind one of them.
