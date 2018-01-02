@@ -1,3 +1,4 @@
+#author : mounicraju@gmail.com
 #encoding length using generators
 def decode(it):
     for x, L in it:
