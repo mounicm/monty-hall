@@ -9,6 +9,8 @@
 More information: https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 <h2>About the simulation</h2>
+The Monty Hall problem is a famous, seemingly paradoxical problem in conditional probability and reasoning using Bayes' theorem. Information affects your decision that at first glance seems as though it shouldn't.
+
 This is a statistics problem that has been bothering me for a while now, and I decided to analyze it by simulating 2 million games and seeing what the win ratio would tell us about certain strategies.
 
 The answer to the problem is to switch doors, because you are more likely to win (about 2/3 as likely). This is counter-intuitive and has never made sense to me in middle school, so clearing this confusion was the inspiration for this project.
